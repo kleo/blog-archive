@@ -9,7 +9,7 @@ title: about
 * [pineapple-themes](https://github.com/kleo/pineapple-themes) - Themes for the WiFi Pineapple.
 * Human Interface Device payloads - [digispark-payloads](https://github.com/kleo/digispark-payloads) and [teensy-payloads](https://github.com/kleo/teensy-payloads)
 * [android-portals](https://github.com/kleo/android-portals) - Credential phishing using Android Hotspot Captive Portals.
-* [extra-phishing-pages](https://github.com/kleo/extra-phishing-pages) - Community built phishing scenarios for [Wifiphisher](https://github.com/kleo/extra-phishing-pages).
+* [extra-phishing-pages](https://github.com/kleo/extra-phishing-pages) - Community built phishing scenarios for [Wifiphisher](https://github.com/wifiphisher/wifiphisher/).
 * [fiberhomesuperadmin](https://git.io/adminpldt) - PLDT HOME FIBR AN5506-04-FA Advanced Settings.
 * Introduction to Cybersecurity (Speaker) - Identify phishing attacks, Malware and Securing Passwords. April 7 2018
 * [UniPi](https://github.com/kleo/unipi) - A Ubiquiti UniFi AP and Raspberry Pi peso WiFi voucher vending machine. October 2019
