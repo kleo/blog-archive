@@ -59,6 +59,7 @@ root
 
 Install mtk-easy-su apk
 
+![](/img/2021-06-11/1.png)
 
 Follow bootless root for Magisk 20+![^4]
 
