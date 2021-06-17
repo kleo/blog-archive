@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: PLDT Home Fiber router console access
+title: "PLDT Home Fiber router console access"
 category: routers
 ---
 

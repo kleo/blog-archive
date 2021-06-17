@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Google Cloud trial using BPI debit mastercard
+title: "Google Cloud trial using BPI debit mastercard"
 category: blog
 ---
 

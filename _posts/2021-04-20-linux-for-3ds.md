@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Linux for 3DS
+title: "Linux for 3DS"
 category: github
 ---
 

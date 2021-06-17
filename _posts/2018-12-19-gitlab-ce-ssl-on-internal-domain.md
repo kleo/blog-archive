@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: GitLab-CE SSL on Internal Domain
+title: "GitLab-CE SSL on Internal Domain"
 category: sysadmin
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Copying files over Tor using torsocks and scp
+title: "Copying files over Tor using torsocks and scp"
 category: notes
 ---
 

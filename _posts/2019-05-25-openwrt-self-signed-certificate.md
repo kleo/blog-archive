@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: OpenWrt self signed certificate
+title: "OpenWrt self signed certificate"
 category: routers
 ---
 

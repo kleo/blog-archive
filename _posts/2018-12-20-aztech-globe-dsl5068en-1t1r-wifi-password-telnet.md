@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Aztech Globe DSL5068EN-1T1R WiFi Password Telnet
+title: "Aztech Globe DSL5068EN-1T1R WiFi Password Telnet"
 category: routers
 ---
 

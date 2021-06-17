@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: USB powered Xperia C5 Ultra
+title: "USB powered Xperia C5 Ultra"
 category: mobile
 ---
 

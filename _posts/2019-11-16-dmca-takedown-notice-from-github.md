@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: DMCA takedown notice from Github
+title: "DMCA takedown notice from Github"
 category: github
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: TP-Link TL-WR740N Recovery
+title: "TP-Link TL-WR740N Recovery"
 category: routers
 ---
 

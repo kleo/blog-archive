@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Sony Xperia XZ1 Compact LineageOS
+title: "Sony Xperia XZ1 Compact LineageOS"
 category: mobile
 ---
 

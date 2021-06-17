@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: PLDT Home Fiber router hacking
+title: "PLDT Home Fiber router hacking"
 category: routers
 ---
 

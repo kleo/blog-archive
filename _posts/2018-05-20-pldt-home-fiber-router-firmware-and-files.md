@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: PLDT Home Fiber router firmware and files
+title: "PLDT Home Fiber router firmware and files"
 category: routers
 ---
 

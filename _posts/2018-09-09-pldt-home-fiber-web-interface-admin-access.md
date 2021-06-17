@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: PLDT Home Fiber web interface admin access
+title: "PLDT Home Fiber web interface admin access"
 category: routers
 ---
 

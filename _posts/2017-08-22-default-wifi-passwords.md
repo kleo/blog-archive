@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Default WiFi passwords
+title: "Default WiFi passwords"
 category: routers
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Powershell Windows 10 update
+title: "Powershell Windows 10 update"
 category: sysadmin
 ---
 

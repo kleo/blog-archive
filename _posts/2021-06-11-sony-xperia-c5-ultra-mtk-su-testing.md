@@ -1,15 +1,14 @@
 ---
 layout: post
-slug: Sony Xperia C5 Ultra mtk-su testing
+title: "Sony Xperia C5 Ultra mtk-su testing"
 category: blog
 ---
 
 google "latest rooting methods github android" at around 6 in the morning
 
-2nd result JunioJsv/mtk-easy-su[^1]
-1st result scottyab/rootbeer
+2nd result [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su)
 
-Recently found out that my old phone was vulnerable to CVE-2020-0069 discovered by Diplomatic from XDA[^2]
+Now I have found out that my old phone is vulnerable to CVE-2020-0069 discovered by Diplomatic from XDA[^1] [^2]
 
 Check Sony Xperia C5 Ultra specs[^3]
 
@@ -61,11 +60,11 @@ root
 Install mtk-easy-su apk
 
 
-Follow bootless root for Magisk 20+! [^4]
+Follow bootless root for Magisk 20+![^4]
 
 ---
 
-Android Debug Bridge is not available on android 6.0 settings, following this to enable it [^5]
+Android Debug Bridge is not available on android 6.0 settings, following this to enable it[^5]
 
 ```
 su
@@ -74,7 +73,7 @@ stop adbd
 start adbd
 ```
 
-Next up is to enable adb wireless on boot [^6] 
+Next is to enable adb wireless on boot[^6] 
 
 ```
 setprop persist.adb.tcp.port 5555
@@ -94,5 +93,3 @@ setprop persist.adb.tcp.port ""
 [^4]: [Up-to-date bootless root for Magisk 20+!](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/post-82081703)
 [^5]: [Enable wireless adb as root](https://stackoverflow.com/a/31327918/10025507)
 [^6]: [Enable wireless adb on boot](https://stackoverflow.com/a/34219466/10025507)
-
-

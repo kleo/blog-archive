@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: OpenWrt Unifi AP AC Lite
+title: "OpenWrt Unifi AP AC Lite"
 category: routers
 ---
 

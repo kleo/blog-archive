@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Recording rtsp stream and save to Nextcloud Docker
+title: "Recording rtsp stream and save to Nextcloud Docker"
 category: sysadmin
 ---
 

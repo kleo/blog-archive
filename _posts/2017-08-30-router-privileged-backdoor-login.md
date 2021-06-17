@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Router Privileged Backdoor Login
+title: "Router Privileged Backdoor Login"
 category: routers
 ---
 

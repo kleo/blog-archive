@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Self-signed Certificates for Plex Media Server
+title: "Self-signed Certificates for Plex Media Server"
 category: sysadmin
 ---
 

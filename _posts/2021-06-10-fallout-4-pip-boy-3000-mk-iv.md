@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: Fallout 4 - Pip-Boy 3000 Mark IV 
+title: "Fallout 4 - Pip-Boy 3000 Mark IV" 
 category: blog
 ---
 
