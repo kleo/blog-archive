@@ -30,6 +30,7 @@ body {
   line-height: 1.4;
   margin: 0;
   min-height: 100%;
+  overflow-wrap: break-word;
 }
 
 .post-meta { text-align: right; }
@@ -47,8 +48,7 @@ ul { list-style-type: none; }
 *:target { background: yellow; }
 
 .w {
-  width: fit-content;
-  max-width: 800px;
+  max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
