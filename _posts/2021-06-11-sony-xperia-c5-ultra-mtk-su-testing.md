@@ -65,7 +65,7 @@ Follow bootless root for Magisk 20+![^4]
 
 ---
 
-Android Debug Bridge is not available on android 6.0 settings, following this to enable it[^5]
+Wireless adb is not available on android 6.0 developer settings, following this to enable it[^5]
 
 ```
 su
