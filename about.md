@@ -3,6 +3,8 @@ layout: page
 title: about
 ---
 
+* [donate](/donate)
+
 #### Projects and Activities
 
 * [Evil Portals](https://github.com/kleo/evilportals) - A collection of portals that can be loaded into the Evil Portal module and can be used for phishing attacks against WiFi clients in order to obtain credentials or infect the victims with malware using the Hak5 WiFi Pineapple Tetra and Nano.

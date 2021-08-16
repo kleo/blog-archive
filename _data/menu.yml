@@ -5,9 +5,6 @@ entries:
   - title: about
     url: about
 
-  - title: donate
-    url: donate
-
   - title: posts
     post_list:
       limit: 5
