@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sony Xperia C5 Ultra mtk-su testing"
+title: "Sony Xperia C5 Ultra bootless root"
 category: blog
 ---
 
