@@ -5,7 +5,7 @@ title: donate
 
 Thank you for considering a donation!
 
-[PayPal](https://www.paypal.com/donate?hosted_button_id=HT476PNWWGZ4E){:target="_blank"}
+[PayPal](https://paypal.me/kleocappuccino){:target="_blank"}
 
 **BTC:** bc1q3hx04txe2649f9krcn2785na33x8dp34qz85tm
 
