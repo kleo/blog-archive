@@ -5,7 +5,7 @@ title: donate
 
 Thank you for considering a donation!
 
-[PayPal](https://paypal.me/kleocappuccino){:target="_blank"}
+[PayPal](https://paypal.me/kleo9324){:target="_blank"}
 
 **BTC:** bc1q3hx04txe2649f9krcn2785na33x8dp34qz85tm
 
