@@ -11,15 +11,13 @@ title: about
 
 <i class='fa-brands fa-gitlab'></i> GitLab / [kleo](https://gitlab.com/kleo)
 
-<i class='fa-brands fa-discord'></i> Discord / [kleo#9324](https://discord.com/users/265881504918274048)
+<i class='fa-brands fa-discord'></i> Discord / [kleobercero](https://discord.com/users/265881504918274048)
 
 <i class='fa fa-fire'></i> SourceForge / [kleobercero](https://sourceforge.net/u/kleobercero/profile)
 
-<i class='fa-brands fa-twitter'></i> Twitter / [kleobercero](https://twitter.com/kleobercero)
+<i class='fa-brands fa-twitter'></i> ~~Twitter / kleobercero~~ deactivated 2023-07-11
 
 <i class='fa-brands fa-youtube'></i> YouTube / [kleobercero](https://www.youtube.com/c/kleobercero)
-
-<i class='fa-brands fa-twitch'></i> Twitch / [kleobercero](https://www.twitch.tv/kleobercero)
 
 #### Projects and Activities
 
