@@ -13,8 +13,4 @@ entries:
       show_more_url: archive.html
 
   - title:
-    post_list:
-      limit: 0
-      show_more: true
-      show_more_text: rss
-      show_more_url: feed.xml
+    url: feed.xml
