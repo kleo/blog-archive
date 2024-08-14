@@ -12,5 +12,5 @@ entries:
       show_more_text: archive
       show_more_url: archive.html
 
-  - title:
+  - title: rss
     url: feed.xml
