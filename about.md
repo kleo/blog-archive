@@ -30,6 +30,7 @@ title: about
 * Introduction to Cybersecurity (Speaker) - Identify phishing attacks, Malware and Securing Passwords. April 7 2018
 * [UniPi](https://github.com/kleo/unipi) - A Ubiquiti UniFi AP and Raspberry Pi peso WiFi voucher vending machine. October 2019
 * [Fusée à la Framboise](https://github.com/kleo/fusee-framboise) - A Raspberry Pi OS image that loops Fusée Gelée over and over again.
+* **Linux for 3DS** - GitHub Actions workflow build and releases for [linux-3ds](https://github.com/linux-3ds) bootloader, kernel and firmware. [[1](https://github.com/linux-3ds/firm_linux_loader/blob/master/.github/workflows/build.yml)] [[2](https://github.com/linux-3ds/linux/blob/master/.github/workflows/build.yml)] [[3](https://github.com/linux-3ds/arm9linuxfw/blob/master/.github/workflows/build.yml)] [[4](https://github.com/linux-3ds/firm_linux_loader/commits?author=kleo)]
 
 #### Donate
 
