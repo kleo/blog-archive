@@ -15,7 +15,7 @@ title: about
 
 <i class='fa fa-fire'></i> SourceForge / [kleobercero](https://sourceforge.net/u/kleobercero/profile)
 
-<i class='fa-brands fa-twitter'></i> ~~Twitter / kleobercero~~ deactivated 2023-07-11
+<i class='fa-brands fa-twitter'></i> ~~Twitter / kleobercero~~ ~~deactivated 2023-07-11~~ deleted
 
 <i class='fa-brands fa-youtube'></i> YouTube / [kleobercero](https://www.youtube.com/c/kleobercero)
 
