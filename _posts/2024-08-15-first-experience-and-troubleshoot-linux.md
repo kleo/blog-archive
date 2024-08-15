@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My very first troubleshoot on Linux"
+title: "My very first experience and troubleshoot on Linux"
 category: notes
 ---
 
-I still have this note dated 2013-07-04 named grub.txt.                                                                                                                                                                                                                      
+I still have this note dated 2013-07-04 named grub.txt.           
 
 ```
 set root=(hd0,msdos6)
@@ -13,7 +13,7 @@ insmod normal
 normal
 ```
 
-I found out about Ubuntu first at a Apple Store lol. 
+I found out about Linux first at a Apple Store lol. 
 
 This was at Plazuela de Iloilo, probably went there to wander at new shops with my parents.
 
@@ -31,4 +31,6 @@ On startup it boots to a grub prompt which was very disappointing.
 
 After looking far and wide trying out different solutions I finally found the fix and made the note above.
 
-I was hoping this was the last problem I have on using Linux. Or is it?
+I was hoping this was the last problem I have on using Linux. 
+
+Or is it?
