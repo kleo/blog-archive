@@ -31,6 +31,8 @@ On startup it boots to a grub prompt which was very disappointing.
 
 After looking far and wide trying out different solutions I finally found the fix and made the note above.
 
+This experience started my fascination with terminals.
+
 I was hoping this was the last problem I have on using Linux. 
 
 Or is it?
