@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My very first experience and troubleshoot on Linux"
+title: "My first experience & troubleshoot on Linux"
 category: notes
 ---
 
